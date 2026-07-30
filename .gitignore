@@ -1,0 +1,27 @@
+# Build outputs
+mckill
+mckill.bpf.o
+mckill.skel.h
+vmlinux.h
+qaq
+victim
+victim
+
+# Local test helpers / scratch
+victim
+*.out
+*.o
+*.a
+
+# Editor / OS junk
+*~
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
+*.code-workspace
+
+# Claude / tooling
+.claude/
+.codegraph/
